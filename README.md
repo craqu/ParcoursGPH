@@ -4,12 +4,12 @@ L'objet Bacc implémente différentes méthodes utiles
 - show_credit()
 - add_course()
 
-Ces méthodes s'applique a un objet Bacc initialisé avec une liste de liste d'objet 'Course' 
+Ces méthodes s'appliquent à un objet Bacc initialisé avec une liste de liste d'objet Course 
 ex: `[[cours1, cours2, ...],..., [... ,cours_n-1, cours_n]]`
 
 Rouler le programme `ParcourGPH.py` pour tester vos combos de cours!
 
-Par exemple, on souhaite regarder les conflits pour les combo suivants:
+Par exemple, on souhaite regarder les conflits pour les combos suivants:
 
 `sigles.py`
 ``` 
@@ -38,5 +38,5 @@ Bac = [S1] + [S2] + [S3] + [S4] + [S5] + [S6] + [E6_5] + [S7] + [S8]
 ```
 
 # TODO
-- implémenter une manière de "clear" la cache pour (un cours spécifique ou tous les cours) pour réinitialiser les infos d'un cours 
-- faire un interface graphique
+- Implémenter une manière de "clear" la cache pour (un cours spécifique ou tous les cours) pour réinitialiser les infos d'un cours.
+- Faire une interface graphique.
