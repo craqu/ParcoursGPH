@@ -1,0 +1,1436 @@
+[
+    {
+        "name": "Introduction \u00e0 la m\u00e9canique des fluides",
+        "sigle": "GMC-1003",
+        "preliminary": [
+            "MAT-1910* OU PHY-1001*"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "11h30",
+                    "13h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "15h30",
+                    "17h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Sant\u00e9 et s\u00e9curit\u00e9 pour ing\u00e9nieur I",
+        "sigle": "GMN-2900",
+        "preliminary": [],
+        "horaire": [
+            {},
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "10h30",
+                    "12h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "1"
+    },
+    {
+        "name": "Travaux pratiques d'optique photonique I",
+        "sigle": "GPH-2004",
+        "preliminary": [
+            "GPH-1799",
+            "GPH-2005*"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "12h30",
+                    "16h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Optique instrumentale",
+        "sigle": "GPH-2005",
+        "preliminary": [
+            "GEL-3002 OU PHY-2001"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "8h30",
+                    "9h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "9h30",
+                    "10h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Mod\u00e9lisation en g\u00e9nie physique",
+        "sigle": "GPH-2104",
+        "preliminary": [
+            "(GEL-1001 OU GSC-1000)",
+            "(GEL-1799* OU GEL-4799*)",
+            "GEL-2005*",
+            "GLO-1901"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "4"
+    },
+    {
+        "name": "Physique quantique",
+        "sigle": "PHY-1006",
+        "preliminary": [
+            "PHY-1002 OU MAT-1900"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "11h30",
+                    "13h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "10h30",
+                    "11h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Physique math\u00e9matique I",
+        "sigle": "PHY-1001",
+        "preliminary": [],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "8h30",
+                    "9h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "9h30",
+                    "10h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Physique math\u00e9matique II",
+        "sigle": "PHY-1002",
+        "preliminary": [],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "10h30",
+                    "11h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "11h30",
+                    "12h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Pratique du g\u00e9nie physique",
+        "sigle": "GPH-1000",
+        "preliminary": [],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "14h30",
+                    "16h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "1"
+    },
+    {
+        "name": "Dessin pour ing\u00e9nieurs",
+        "sigle": "GMC-1000",
+        "preliminary": [],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "8h30",
+                    "11h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "8h30",
+                    "11h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "13h30",
+                    "16h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "10h30",
+                    "13h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "10h30",
+                    "13h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "13h30",
+                    "16h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "10h30",
+                    "13h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "Connexe"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "M\u00e9canique et relativit\u00e9 restreinte",
+        "sigle": "PHY-1003",
+        "preliminary": [],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "12h30",
+                    "13h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "16h30",
+                    "17h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "10h30",
+                    "12h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Introduction \u00e0 la programmation avec Python",
+        "sigle": "GLO-1901",
+        "preliminary": [],
+        "horaire": [
+            {},
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "17h30",
+                    "18h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne",
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "\u00c9lectronique et mesures exp\u00e9rimentales",
+        "sigle": "GPH-2006",
+        "preliminary": [
+            "(PHY-1002 OU MAT-1900)",
+            "PHY-1007*"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "13h30",
+                    "17h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "Connexe"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Physique math\u00e9matique III",
+        "sigle": "PHY-1004",
+        "preliminary": [
+            "PHY-1002 OU MAT-1900"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "15h30",
+                    "16h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "10h30",
+                    "11h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Ondes et syst\u00e8mes lin\u00e9aires",
+        "sigle": "PHY-1005",
+        "preliminary": [
+            "PHY-1002 OU MAT-1900"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "13h30",
+                    "14h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "14h30",
+                    "15h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "\u00c9lectromagn\u00e9tisme",
+        "sigle": "PHY-1007",
+        "preliminary": [
+            "PHY-1001 OU MAT-1910"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "10h30",
+                    "11h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "11h30",
+                    "12h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Design I (m\u00e9thodologie)",
+        "sigle": "GEL-1001",
+        "preliminary": [],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "12h30",
+                    "13h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "13h30",
+                    "14h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "10h30",
+                    "12h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "Connexe"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Introduction \u00e0 la thermodynamique",
+        "sigle": "GMC-1002",
+        "preliminary": [
+            "MAT-1900* OU PHY-1002*"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "10h30",
+                    "12h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "15h30",
+                    "17h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Mat\u00e9riaux de l'ing\u00e9nieur",
+        "sigle": "GML-1001",
+        "preliminary": [],
+        "horaire": [
+            {}
+        ],
+        "session": [
+            "Hiver",
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Syst\u00e8mes et commande lin\u00e9aires",
+        "sigle": "GEL-2005",
+        "preliminary": [
+            "(PHY-1002 OU MAT-1900)",
+            "(PHY-1005 OU GEL-1000)"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "8h30",
+                    "9h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "9h30",
+                    "10h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Ondes \u00e9lectromagn\u00e9tiques",
+        "sigle": "PHY-2001",
+        "preliminary": [
+            "PHY-1007"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "14h30",
+                    "16h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "10h30",
+                    "11h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "11h30",
+                    "12h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Circuits logiques",
+        "sigle": "GIF-1002",
+        "preliminary": [],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "12h30",
+                    "15h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "13h30",
+                    "14h50"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "13h30",
+                    "14h50"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "13h30",
+                    "14h50"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "13h30",
+                    "14h50"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "15h",
+                    "16h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "15h",
+                    "16h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "15h",
+                    "16h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "15h",
+                    "16h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "10h30",
+                    "11h50"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "Connexe"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "S\u00e9curit\u00e9 oculaire et dangers optiques",
+        "sigle": "GPH-1799",
+        "preliminary": [],
+        "horaire": [
+            {},
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "9h30",
+                    "12h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "0"
+    },
+    {
+        "name": "Dangers de l'\u00e9lectricit\u00e9",
+        "sigle": "GEL-4799",
+        "preliminary": [],
+        "horaire": [
+            {}
+        ],
+        "session": [
+            "Automne",
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "0"
+    },
+    {
+        "name": "Transferts thermiques",
+        "sigle": "GMC-3005",
+        "preliminary": [
+            "GMC-1002",
+            "GMC-2005"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "10h30",
+                    "12h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Probabilit\u00e9s pour ing\u00e9nieurs",
+        "sigle": "STT-2920",
+        "preliminary": [
+            "((MAT-1900",
+            "MAT-1910) OU (PHY-1001",
+            "PHY-1002))"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "15h30",
+                    "17h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "15h30",
+                    "17h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "M\u00e9canique quantique pour l'ing\u00e9nieur",
+        "sigle": "GPH-3004",
+        "preliminary": [
+            "PHY-1003",
+            "PHY-1006"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "9h30",
+                    "10h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "10h30",
+                    "11h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "12h30",
+                    "14h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Physique atomique et nucl\u00e9aire",
+        "sigle": "GPH-2002",
+        "preliminary": [
+            "GPH-3004",
+            "PHY-1006"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "12h30",
+                    "13h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "R\u00e9sistance des mat\u00e9riaux",
+        "sigle": "GMC-2001",
+        "preliminary": [
+            "PHY-1003 OU GMC-1001"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "10h30",
+                    "12h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "10h30",
+                    "12h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Projet de conception en g\u00e9nie physique",
+        "sigle": "GPH-3110",
+        "preliminary": [
+            "GPH-2104"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "13h30",
+                    "14h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "13h30",
+                    "14h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "14h30",
+                    "16h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "14h30",
+                    "16h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Travaux pratiques avanc\u00e9s",
+        "sigle": "GPH-3000",
+        "preliminary": [
+            "GPH-1799",
+            "GPH-3110"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "8h30",
+                    "12h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "8h30",
+                    "12h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "8h30",
+                    "12h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Physique de l'\u00e9tat solide",
+        "sigle": "PHY-3003",
+        "preliminary": [
+            "PHY-1006",
+            "(PHY-2004 OU GPH-2005)"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "15h30",
+                    "16h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "16h30",
+                    "17h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Projet de fin d'\u00e9tudes",
+        "sigle": "GPH-3001",
+        "preliminary": [
+            "GPH-3110"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "7h30",
+                    "8h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne",
+            "Hiver",
+            "\u00c9t\u00e9"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Physique num\u00e9rique",
+        "sigle": "PHY-3500",
+        "preliminary": [
+            "(IFT-1004 OU GLO-1901)",
+            "1000 \u00e0 4999 Cr\u00e9dits exig\u00e9s : 30"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "12h30",
+                    "13h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "G\u00e9nie et d\u00e9veloppement durable",
+        "sigle": "PHI-2910",
+        "preliminary": [
+            "Cr\u00e9dits exig\u00e9s : 30"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "10h30",
+                    "13h20"
+                ]
+            }
+        ],
+        "session": [
+            "\u00c9t\u00e9",
+            "Automne",
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Analyse des signaux",
+        "sigle": "GEL-2001",
+        "preliminary": [
+            "(PHY-1002 OU MAT-1900)",
+            "(PHY-1005 OU GEL-1000)"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Communications optiques",
+        "sigle": "GEL-4201",
+        "preliminary": [
+            "GEL-2001",
+            "(GEL-3002 OU GEL-2900 OU GEL-2910 OU PHY-2001)"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "13h30",
+                    "16h20"
+                ]
+            },
+            {}
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "Connexe"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "\u00c9thique et professionnalisme",
+        "sigle": "PHI-3900",
+        "preliminary": [
+            "Cr\u00e9dits exig\u00e9s : 60"
+        ],
+        "horaire": [
+            {},
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "12h30",
+                    "15h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "12h30",
+                    "15h20"
+                ]
+            }
+        ],
+        "session": [
+            "\u00c9t\u00e9",
+            "Automne",
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Analyse \u00e9conomique en ing\u00e9nierie",
+        "sigle": "ECN-2901",
+        "preliminary": [],
+        "horaire": [
+            {},
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "15h30",
+                    "18h20"
+                ]
+            }
+        ],
+        "session": [
+            "\u00c9t\u00e9",
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Apprentissage automatique pour le traitement du signal",
+        "sigle": "IFT-4030",
+        "preliminary": [
+            "(GLO-1901 OU IFT-1004)",
+            "(MAT-1200 OU MAT-2930)"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "9h30",
+                    "12h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "15h",
+                    "16h50"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Signaux et syst\u00e8mes discrets",
+        "sigle": "GEL-3003",
+        "preliminary": [
+            "GEL-2001"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Lundi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "15h30",
+                    "17h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Communications num\u00e9riques",
+        "sigle": "GEL-4200",
+        "preliminary": [
+            "GEL-2001",
+            "STT-2920"
+        ],
+        "horaire": [
+            {},
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "13h30",
+                    "15h20"
+                ]
+            }
+        ],
+        "session": [
+            "Automne"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    },
+    {
+        "name": "Antennes et propagation radio",
+        "sigle": "GEL-4202",
+        "preliminary": [
+            "GEL-3002 OU PHY-2001"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "10h30",
+                    "11h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mercredi",
+                "Horaire": [
+                    "11h30",
+                    "12h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Vendredi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "R\u00e9gulier"
+        ],
+        "credit": "3"
+    }
+]
