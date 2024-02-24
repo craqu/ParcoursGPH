@@ -3,6 +3,7 @@ L'objet Bacc implémente différentes méthodes utiles
 - look_for_conflict()
 - show_credit()
 - add_course()
+- print(into_course("phy-1002")) donne les infos sur le cours phy-1002 par exemple!
 
 Ces méthodes s'appliquent à un objet Bacc initialisé avec une liste de liste d'objet Course 
 ex: `[[cours1, cours2, ...],..., [... ,cours_n-1, cours_n]]`
@@ -32,6 +33,7 @@ Bac = [S1] + [S2] + [S3] + [S4] + [S5] + [S6] + [E6_5] + [S7] + [S8]
     gph.look_for_conflict()
     gph.show_credit()
     """ On ajoute un cours sur le fly ... IFT-4030 à la 9ième session """
+    print((into_course("IFT-4030")) # on affiche les infos obtenues sur le cours, pourquoi pas ?!
     gph.add_course((into_course("IFT-4030"),9))
     gph.look_for_conflict()
     gph.show_credit()
@@ -40,3 +42,4 @@ Bac = [S1] + [S2] + [S3] + [S4] + [S5] + [S6] + [E6_5] + [S7] + [S8]
 # TODO
 - Implémenter une manière de "clear" la cache pour (un cours spécifique ou tous les cours) pour réinitialiser les infos d'un cours.
 - Faire une interface graphique.
+- Implémenter une vérification des préalables (les infos sont déja dans le json!) .. \[en cours\]

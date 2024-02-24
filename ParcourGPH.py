@@ -89,11 +89,9 @@ def into_course(listedeliste):
 if __name__ == "__main__":
     """ Exemple! """
     gph = into_course(Bac)
-    gph.look_for_conflict()
-    gph.show_credit()
+
     """ On ajoute un cours sur le fly ... IFT-4030 à la 9ième session """
-    gph.add_course((into_course("IFT-4030"),9))
-    gph.look_for_conflict()
-    gph.show_credit()
+    print(into_course("IFT-4030"))
+
     
 
