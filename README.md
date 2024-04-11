@@ -32,8 +32,8 @@ Bac = [S1] + [S2] + [S3] + [S4] + [S5] + [S6] + [E6_5] + [S7] + [S8]
     gph = into_course(Bac)
     gph.look_for_conflict()
     gph.show_credit()
-    """ On ajoute un cours sur le fly ... IFT-4030 à la 9ième session """
     print((into_course("IFT-4030")) # on affiche les infos obtenues sur le cours, pourquoi pas ?!
+    """ On ajoute un cours sur le fly ... IFT-4030 à la 9ième session """
     gph.add_course((into_course("IFT-4030"),9))
     gph.look_for_conflict()
     gph.show_credit()
