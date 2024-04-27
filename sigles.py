@@ -9,7 +9,7 @@ S7 = ["GPH-3000", "IFT-4030", "GEL-3003", "GEL-4200"]
 S8 = ["PHY-3003", "GPH-3001", "PHY-3500", "GEL-4202"]
 E6_5 = ["PHI-3900", "ECN-2901"]
 Bac = [S1] + [S2] + [S3] + [S4] + [S5] + [S6] + [E6_5] + [S7] + [S8]
-
+Bac = [S8]
 sigles = [S6] + [S7] + [S8]
 cours_option = ["IFT-4030", "GEL-2001"]
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 from scrapper import Scrapper, Course, convert_to_number
 from sigles import sigles, Bac
-
+from sys import exit
 
 class Bacc():
     def __init__(self, bacc=[[] for i in range(8)]):
@@ -8,7 +8,11 @@ class Bacc():
 
     def add_course(self, tup):
         # bac grille 2D avec Bacc[session][cours]
-        course, session = tup
+        try:
+            course, session = tup
+        except(TypeError):
+            print("Erreur détecté: ","add_course() s'attend a recevoir un tuple, exemple: (GEL_XXXX,1)")
+            exit(1)
         self.bacc[session - 1].append(course)
 
     def look_for_conflict(self):
@@ -91,7 +95,9 @@ if __name__ == "__main__":
     gph = into_course(Bac)
 
     """ On ajoute un cours sur le fly ... IFT-4030 à la 9ième session """
-    print(into_course("IFT-4030"))
+    print(into_course("GEL-2003"))
+    gph.add_course(into_course("GEL-2003"))
+    gph.look_for_conflict()
 
     
 

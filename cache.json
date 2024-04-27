@@ -1432,5 +1432,59 @@
             "R\u00e9gulier"
         ],
         "credit": "3"
+    },
+    {
+        "name": "\u00c9lectrotechnique",
+        "sigle": "GEL-2003",
+        "preliminary": [
+            "((GEL-1000",
+            "GEL-1002) OU GPH-2006 OU GMC-3006)",
+            "(GEL-2000 OU GEL-2900 OU GEL-2910 OU PHY-1007 OU GMC-3003)",
+            "GEL-4799*"
+        ],
+        "horaire": [
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "8h30",
+                    "10h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "12h30",
+                    "13h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "13h30",
+                    "14h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Jeudi",
+                "Horaire": [
+                    "8h30",
+                    "11h20"
+                ]
+            },
+            {
+                "Journ\u00e9e": "Mardi",
+                "Horaire": [
+                    "13h30",
+                    "16h20"
+                ]
+            }
+        ],
+        "session": [
+            "Hiver"
+        ],
+        "mode": [
+            "Connexe"
+        ],
+        "credit": "4"
     }
 ]
